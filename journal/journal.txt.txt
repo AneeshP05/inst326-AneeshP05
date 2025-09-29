@@ -7,4 +7,7 @@ Week 1
 This week, I used AI to refresh my knowledge of python by asking ChatGPT how to execute certain functions and generate sample code that I could use for learning the syntax of the code I needed to do.
 
 Week 2
-This week, I used ChatGPT to help explain to me the concepts of things such as loops and boolean code, since I was my knowledge from last semester was a bit rusty to say the least.
+This week, I used ChatGPT to help explain to me the concepts of things such as loops and boolean code, since my knowledge from last semester was a bit rusty to say the least.
+
+Week 3
+This week, I used ChatGPT once more to help me understand concepts in my course where I am learning SQL. I learned how to use many commands such as CONCAT and SUBSTRING.
