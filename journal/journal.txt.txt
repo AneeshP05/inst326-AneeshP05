@@ -11,3 +11,6 @@ This week, I used ChatGPT to help explain to me the concepts of things such as l
 
 Week 3
 This week, I used ChatGPT once more to help me understand concepts in my course where I am learning SQL. I learned how to use many commands such as CONCAT and SUBSTRING.
+
+Week 4
+This week, I used ChatGPT to study, asking it to explain concepts and provide definitions for terms. I also played around with the prompts I used, ensuring they were detailed and relied on real world information only.
