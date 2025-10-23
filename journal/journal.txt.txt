@@ -17,3 +17,6 @@ This week, I used ChatGPT to study, asking it to explain concepts and provide de
 
 Week 5
 This week, I used ChatGPT to debug code in my courses covering Python and R. Python was able to pick out small syntax errors and make suggestions.
+
+Week 6
+This week, I used ChatGPT to clarify the concept of classes to me and teach me the syntax of creating classes. It was really useful because I was able to ask the AI to tailor its response in a way I could understand.
