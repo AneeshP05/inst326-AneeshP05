@@ -23,3 +23,6 @@ This week, I used ChatGPT to clarify the concept of classes to me and teach me t
 
 Week 7
 This week, ChatGPT aided me in the creation of my classes for my group's nutrition analyzer app. The AI helped me immensely with providing the syntax I needed to code and giving suggestions as to how to word my docstrings.
+
+Week 8
+Over the past week, I used AI tools like ChatGPT to help clarify coding concepts and suggest improvements when I was stuck. I also used it to review my code logic and generate test cases, which helped me debug more efficiently.
